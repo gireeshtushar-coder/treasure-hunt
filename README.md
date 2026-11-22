@@ -5,3 +5,5 @@ Guess its location using HOT / WARM / COLD hints. You get 6 digs!
 ## How to run
 g++ main.cpp -o game
 ./game
+### Developer
+gireeshtushar-coder
